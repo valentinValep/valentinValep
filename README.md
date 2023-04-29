@@ -12,7 +12,8 @@
 - Base de Données SQL
 
 # Projets récents
-[42_FdF](https://github.com/valentinValep/42_Fdf) : rendu 3D en Fil de Fer.
+- [42_FdF](https://github.com/valentinValep/42_Fdf) : rendu 3D en Fil de Fer.
+- [42_Minitalk](https://github.com/valentinValep/42_minitalk) : communication client-serveur utilisant exclusivement les signaux Unix.
 
 # Réseaux sociaux
 [LinkedIn](https://www.linkedin.com/in/valentin-lepiller-valep/)
