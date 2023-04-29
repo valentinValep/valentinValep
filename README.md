@@ -7,11 +7,7 @@
 2. Actuellement en formation [@ École 42 Paris](https://42.fr/).
 
 # Langages, outils et technologies connus
-- C
-- C++
-- Java
-- Python
-- Rust
+- C, C++, Java, Python, Rust
 - Web (HTML, CSS, JavaScript)
 - Base de Données SQL
 
