@@ -1,16 +1,17 @@
-### Hi there 👋
+# Valentin Lepiller alias Valep
+Étudiant en Informatique à [@École 42](https://42.fr/)
 
-<!--
-**valentinValep/valentinValep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Langages, outils et technologies connus
+- C
+- C++
+- Java
+- Python
+- Rust
+- Web (HTML, CSS, JavaScript)
+- Base de Données SQL
 
-Here are some ideas to get you started:
+# Projets récents
+[42_FdF](https://github.com/valentinValep/42_Fdf) : rendu 3D en Fil de Fer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Réseaux sociaux
+[LinkedIn](https://www.linkedin.com/in/valentin-lepiller-valep/)
