@@ -1,5 +1,10 @@
 # Valentin Lepiller alias Valep
-Étudiant en Informatique à [@École 42](https://42.fr/)
+
+Étudiant en Informatique depuis plus de deux ans.
+
+1. Titulaire d'un DUT Informatique [@ IUT d'Orléans](https://www.univ-orleans.fr/fr/iut-orleans).
+
+2. Actuellement en formation [@ École 42 Paris](https://42.fr/).
 
 # Langages, outils et technologies connus
 - C
