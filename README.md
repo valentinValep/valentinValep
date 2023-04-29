@@ -1,19 +1,19 @@
-# Valentin Lepiller alias Valep
+# Valentin Lepiller aka Valep
 
-Étudiant en Informatique depuis plus de deux ans.
+Computer Science student for over two years.
 
-1. Titulaire d'un DUT Informatique [@ IUT d'Orléans](https://www.univ-orleans.fr/fr/iut-orleans).
+1. Holder of a DUT in Computer Science [@ IUT d'Orléans](https://www.univ-orleans.fr/fr/iut-orleans).
 
-2. Actuellement en formation [@ École 42 Paris](https://42.fr/).
+2. Currently attending training [@ École 42 Paris](https://42.fr/).
 
-# Langages, outils et technologies connus
+# Known Languages, Tools, and Technologies
 - C, C++, Java, Python, Rust
 - Web (HTML, CSS, JavaScript)
-- Base de Données SQL
+- SQL Databases
 
-# Projets récents
-- [42_FdF](https://github.com/valentinValep/42_Fdf) : rendu 3D en Fil de Fer.
-- [42_Minitalk](https://github.com/valentinValep/42_minitalk) : communication client-serveur utilisant exclusivement les signaux Unix.
+# Recent Projects
+- [42_FdF](https://github.com/valentinValep/42_Fdf) : 3D maps in wireframe renderer.
+- [42_Minitalk](https://github.com/valentinValep/42_minitalk) : client-server communication using Unix signals exclusively.
 
-# Réseaux sociaux
+# Social Media
 [LinkedIn](https://www.linkedin.com/in/valentin-lepiller-valep/)
