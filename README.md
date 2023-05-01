@@ -2,9 +2,9 @@
 
 Computer Science student for over two years.
 
-1. Holder of a DUT in Computer Science [@ IUT d'Orléans](https://www.univ-orleans.fr/fr/iut-orleans).
+1. (since 2022) Studying [@ École 42 Paris](https://42.fr/).
 
-2. Currently attending training [@ École 42 Paris](https://42.fr/).
+2. (2020-2022) Completed a DUT in Computer Science [@ IUT d'Orléans](https://www.univ-orleans.fr/fr/iut-orleans).
 
 # Known Languages, Tools, and Technologies
 - C, C++, Java, Python, Rust
