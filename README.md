@@ -14,6 +14,7 @@ Computer Science student for over two years.
 # Recent Projects
 - [42_FdF](https://github.com/valentinValep/42_Fdf) : 3D maps in wireframe renderer.
 - [42_Minitalk](https://github.com/valentinValep/42_minitalk) : client-server communication using Unix signals exclusively.
+- [minishell_42](https://github.com/AlanBoulesteix/minishell_42) : simple shell inspired by bash.
 
 # Social Media
 [LinkedIn](https://www.linkedin.com/in/valentin-lepiller-valep/)
