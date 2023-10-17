@@ -16,5 +16,6 @@ Computer Science student for over two years.
 - [42_Minitalk](https://github.com/valentinValep/42_minitalk) : client-server communication using Unix signals exclusively.
 - [minishell_42](https://github.com/AlanBoulesteix/minishell_42) : simple shell inspired by bash.
 - [Function Network](https://github.com/valentinValep/Function_Network) : script to visualize links between functions of a C project.
+- [42_Cub3D](https://github.com/valentinValep/42_cub3D) : 3Dgraphical representation of a maze with raycasting.
 # Social Media
 [LinkedIn](https://www.linkedin.com/in/valentin-lepiller-valep/)
