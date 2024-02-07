@@ -16,7 +16,7 @@ Computer Science student for over two years.
 - [42_FdF](https://github.com/valentinValep/42_Fdf): 3D maps in wireframe renderer.
 - [42_Cub3D](https://github.com/valentinValep/42_cub3D): 3Dgraphical representation of a maze with raycasting.
 - [minishell_42](https://github.com/AlanBoulesteix/minishell_42): simple shell inspired by bash.
-- [42_Webserv](https://github.com/chmadran/Webserv): A simple HTTP 1.1 Web server inspired by NGINX.
+- [Webserv](https://github.com/chmadran/Webserv): A simple HTTP 1.1 Web server inspired by NGINX.
 ## Personnal side projects
 - [Function Network](https://github.com/valentinValep/Function_Network): script to visualize links between functions of a C project.
 # Social Media
