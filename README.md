@@ -1,6 +1,6 @@
 # Valentin Lepiller aka Valep
 
-Computer Science student for over two years.
+Computer Science student for over three years.
 
 1. (since 2022) Studying [@ École 42 Paris](https://42.fr/).
 
